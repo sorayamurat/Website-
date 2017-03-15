@@ -41,7 +41,17 @@ body {
 	float: center;
 }
 
+.maisha {
 
+    width: 300px;
+    height: auto;
+}
+
+.soraya {
+
+    width: 300px;
+    height: auto;
+}
 
 .button {
     background-color: #4CAF50; /* #FF69B4 */
